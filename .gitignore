@@ -1,0 +1,4 @@
+**/utenv/*
+**/__pycache__/*
+**/.pytest_cache/*
+**/mlruns/*
